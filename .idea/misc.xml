@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/drawable/border_input_add_picture.xml" value="0.127" />
+        <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/drawable/border_pass_input.xml" value="0.256" />
         <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/drawable/border_scroll_view.xml" value="0.127" />
         <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/layout/activity_comfirm.xml" value="0.259375" />
         <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/IUH.STUDY/K2N3_2022/android/lab2/iuh-android-lab2/app/src/main/res/layout/activity_password.xml" value="0.259375" />
       </map>
     </option>
   </component>

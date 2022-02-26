@@ -10,8 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab2">
         <activity
-            android:name=".Comfirm"
+            android:name=".Password"
             android:exported="true" />
+        <activity
+            android:name=".Comfirm"
+            android:exported="false" />
         <activity android:name=".Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
